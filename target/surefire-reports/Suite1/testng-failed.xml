@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" verbose="0">
+  <test thread-count="5" name="Regression1(failed)" verbose="0">
+    <classes>
+      <class name="pack1.Exampl1">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- pack1.Exampl1 -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
